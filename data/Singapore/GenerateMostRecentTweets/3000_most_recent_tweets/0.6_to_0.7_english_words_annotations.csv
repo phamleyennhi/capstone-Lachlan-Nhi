@@ -1,0 +1,64 @@
+,id_column,cleaned_content,label,annotated_at
+0,85,"Raw: He high af
+Clean: he high af",not_standard_english,2022-10-04 15:58:00
+1,5,"Raw: Hmmm. I used to live in London when 1 GBP = 2.2 SGD, and I remember a time when 1 GBP = 3 SGD even. 
+
+1 GBP = 1.5 SGD mid day today.
+Clean: hmmm i used live london when 1 gbp 2 2 sgd i remember time when 1 gbp 3 sgd even 1 gbp 1 5 sgd mid day today",not_standard_english,2022-10-04 15:58:06
+2,186,"Raw: Japanese store chain Tokyu Hands will be renamed as Hands on 1 October.
+Clean: japanese store chain tokyu hands will be renamed as hands 1 october",standard_english,2022-10-04 15:58:17
+3,43,"Raw: Good evening besties https://t.co/JEDjt4FRcb
+Clean: good evening besties",not_standard_english,2022-10-04 15:58:20
+4,149,"Raw: Heads Up:💶 ECB President Lagarde Speech due at 13:00 GMT (15min)
+https://t.co/kjKaKyPsxV
+Clean: heads up ecb president lagarde speech due at 13 00 gmt 15min",standard_english,2022-10-04 15:58:32
+5,108,"Raw: Just posted a photo @ Singapore / Singapura / 新加坡 / சிங்கப்பூர் https://t.co/8zrC2z30jn
+Clean: just posted photo singapore singapura",code-switched,2022-10-04 15:59:07
+6,22,"Raw: @FOL_Liberation CNN will not be paid any propaganda money until North Korea turns shithole!!!
+Clean: cnn will not be paid any propaganda money until north korea turns shithole",not_standard_english,2022-10-04 15:59:12
+7,49,"Raw: @SpikeReacts_ The audience will fo sho come 
+
+Also loved this vid 🔥
+Clean: audience will fo sho come also loved this vid",not_standard_english,2022-10-04 15:59:17
+8,130,"Raw: @SarangheoZ pafall talga ate... but we can't have him buseet😅
+Clean: pafall talga ate but we cant have him buseet",code-switched,2022-10-04 15:59:23
+9,17,"Raw: some where in china yan hahaha
+
+KIANO ForMagandangBuhay
+@iamginoroqueiv I @_kiatakahashi 
+@_MagandangBuhay
+Clean: some where china yan hahaha kiano formagandangbuhay i",not_standard_english,2022-10-04 15:59:34
+10,115,"Raw: This is Malaysia 😁
+Clean: this is malaysia",standard_english,2022-10-04 15:59:47
+11,68,"Raw: Hafnia taps F-drones for deliveries in Singapore https://t.co/YqKR4xVeOh https://t.co/oT5uiPTeVz
+Clean: hafnia taps f drones deliveries singapore",standard_english,2022-10-04 15:59:56
+12,14,"Raw: 100% #Profit in #Forex Everyday | PM for details
+Clean: 100 everyday pm details",not_standard_english,2022-10-04 16:00:06
+13,170,"Raw: @nekomataokayu Looking forward to it!  waku waku!
+Clean: looking forward it waku waku",code-switched,2022-10-04 16:00:14
+14,185,"Raw: @Klock65 @mypethooligan samez, these bots got vibes
+Clean: samez these bots got vibes",not_standard_english,2022-10-04 16:00:18
+15,154,"Raw: @deelizabeth_ i loved this!! 💕
+Clean: i loved this",standard_english,2022-10-04 16:00:26
+16,174,"Raw: @harshgkapadia OCI is best
+Clean: oci is best",standard_english,2022-10-04 16:00:31
+17,46,"Raw: Endless SHOCK 博多座公演のチケットを探しています。
+
+【日程】10/1 夜
+
+1階または2階AB列センター
+
+【枚数】1枚 
+【金額】ご提示ください(〜7)
+【取引】相談
+
+#EndlessSHOCK求
+  #EndlessSHOCK譲 
+#SHOCK譲 #SHOCK求 #博多座
+Clean: endless shock 10 1 1 2 ab 1 7",not_english,2022-10-04 16:00:37
+18,146,"Raw: Akari Hoshino (from Japan) is now leading on https://t.co/vpuLLOGVIr!
+Clean: akari hoshino japan is now leading",standard_english,2022-10-04 16:00:45
+19,80,"Raw: dakota kai x raquel entrance
+
+#wwe #wwewomenschampion #wwenxt #womenswrestler #femalewrestler #rawwomenschampion #smackdownwomenschampion #ioshirai #iosky #dakotakai #wwewomenstagteamchampions #damagecntl #damagecontrol #geniusofthesky #eviewrestler #evienz #bayleywwe https://t.co/yZnJRh0v4R
+Clean: dakota kai x raquel entrance",not_standard_english,2022-10-04 16:00:59
