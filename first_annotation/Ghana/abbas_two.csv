@@ -1,0 +1,125 @@
+,id_column,annotate_text,label,annotated_at
+0,17395,<b>Raw:</b> Vincent kompany just arrived https://t.co/5DiodQ7VgD<br><b>Clean</b>: vincent kompany just arrived,,2022-12-12 09:56:26
+1,1844,<b>Raw:</b> @ghanayesu_ So is it still Ghana Yesu that oooor<br><b>Clean</b>: so is it still ghana yesu that oooor,code-switched,2022-12-12 09:56:30
+2,18556,<b>Raw:</b> @Benedytte Pappy dey 🏃‍♂️🏃‍♂️lyk dog😂😂<br><b>Clean</b>: pappy dey lyk dog,non_standard_english,2022-12-12 09:56:38
+3,19228,<b>Raw:</b> @leslie_kkay @oreonwarmmilkk Chale for Nurses demma postings de3 Opana force oo...the backlog was serious. lol<br><b>Clean</b>: chale for nurses demma postings de3 opana force oo the backlog was serious lol,code-switched,2022-12-12 09:56:44
+4,17405,<b>Raw:</b> @kuranchie_eva U see KLM for the background norrr your eyes on... Abrewa kata wu tw3 https://t.co/qXLUI863th<br><b>Clean</b>: u see klm for the background norrr your eyes on abrewa kata wu tw3,,2022-12-12 09:56:51
+5,80,<b>Raw:</b> Naeto C listening nicely<br><b>Clean</b>: naeto c listening nicely,not-syntactic_standard_english,2022-12-12 09:57:04
+6,15291,"<b>Raw:</b> @yo_niq Locus, DL Q33 mad XPR 50<br><b>Clean</b>: locus dl q33 mad xpr 50",not-syntactic_standard_english,2022-12-12 09:57:20
+7,21755,"<b>Raw:</b> @AdusiPoku86 @GeorgeAnagli @_minister_Isaac @Opresii If Ronaldo plays in the UEL and Messi plays in the UCL till they retire,Messi will never win 5 UCL trophies 😌🤝<br><b>Clean</b>: if ronaldo plays in the uel and messi plays in the ucl till they retiremessi will never win 5 ucl trophies",not-syntactic_standard_english,2022-12-12 09:57:40
+8,2004,<b>Raw:</b> Y’all be soo fine 😮‍💨😮‍💨😮‍💨<br><b>Clean</b>: yall be soo fine,not-syntactic_standard_english,2022-12-12 09:58:49
+9,14089,<b>Raw:</b> @selasi_klutse E be serious oooo<br><b>Clean</b>: e be serious oooo,non_standard_english,2022-12-12 09:59:44
+10,10639,<b>Raw:</b> @PMLEGEND P dot Miz Man 🤌🏿<br><b>Clean</b>: p dot miz man,some_english,2022-12-12 09:59:58
+11,17802,<b>Raw:</b> Check out nellistawiah's video! #TikTok https://t.co/xxuPUmAL3b<br><b>Clean</b>: check out nellistawiahs video,,2022-12-12 10:00:03
+12,11659,<b>Raw:</b> @Zillah_This Relax. Ebe ceiling fan 💀😀<br><b>Clean</b>: relax ebe ceiling fan,code-switched,2022-12-12 10:20:36
+13,8376,<b>Raw:</b> The funeral was postponed! 😂 https://t.co/NFN8FUzoFJ<br><b>Clean</b>: the funeral was postponed,,2022-12-12 10:20:40
+14,9662,<b>Raw:</b> 11:18pm and I’m about eating cornflakes while watching Nollywood movies 👍🏾 https://t.co/llrAgBqm3h<br><b>Clean</b>: 1118pm and im about eating cornflakes while watching nollywood movies,,2022-12-12 10:20:49
+15,13785,<b>Raw:</b> @Opresii When oyibo chop you<br><b>Clean</b>: when oyibo chop you,code-switched,2022-12-12 10:20:54
+16,14,<b>Raw:</b> @__effah @Kwaku____ She say like Captan and Addi Sef for step in 😭😭😭😭<br><b>Clean</b>: she say like captan and addi sef for step in,non_standard_english,2022-12-12 11:35:43
+17,10061,<b>Raw:</b> Opetey 1 in da building ❤️🔥 https://t.co/1uGe19nOUO<br><b>Clean</b>: opetey 1 in da building,,2022-12-12 11:35:51
+18,22745,<b>Raw:</b> @YooBoyOg @orevalouis @ESPNFC Hastenly.... This is where thou needeth to be https://t.co/atJ5w65xqI<br><b>Clean</b>: hastenly this is where thou needeth to be,,2022-12-12 11:35:56
+19,21960,<b>Raw:</b> @Shamzy_0 Chale Big Ivy be hard 😂 I’m Like Barcelona I have no Mercy (Messi) herh 😂<br><b>Clean</b>: chale big ivy be hard im like barcelona i have no mercy messi herh,non_standard_english,2022-12-12 11:36:08
+20,19032,<b>Raw:</b> Erasmus now woyɛ lawyer? Ei! Defamation nyinaa come inside 😂 #Daterushreunion<br><b>Clean</b>: erasmus now woy lawyer ei defamation nyinaa come inside,code-switched,2022-12-12 11:36:11
+21,22096,<b>Raw:</b> Y’all remember this jam? https://t.co/vs5YTEE45X<br><b>Clean</b>: yall remember this jam,,2022-12-12 11:36:17
+22,11173,<b>Raw:</b> @ReggieRockstone @Joyallover @Liquorose Sure thing 👍 Big Bro @RoseArmy__  @RosearmyR<br><b>Clean</b>: sure thing big bro,not-syntactic_standard_english,2022-12-12 11:36:24
+23,8808,<b>Raw:</b> @antoniojg1986 @ZachLowy Hhhhmmmm it’s very sad<br><b>Clean</b>: hhhhmmmm its very sad,non_standard_english,2022-12-12 11:36:29
+24,8395,<b>Raw:</b> Ekumfi for the night o aahhh finesse 🕺🏿<br><b>Clean</b>: ekumfi for the night o aahhh finesse,code-switched,2022-12-12 11:36:33
+25,23900,<b>Raw:</b> @BruceJojo use the same energy to talk abt ur fante chiefs. bcos of politics 3nti u ar peaching against Asantehene. Bt in ur own hometown poverty is crippling them<br><b>Clean</b>: use the same energy to talk abt ur fante chiefs bcos of politics 3nti u ar peaching against asantehene bt in ur own hometown poverty is crippling them,code-switched,2022-12-12 11:36:40
+26,13357,<b>Raw:</b> @BLAKK_SPYDA @liliesandsmiles Ohh yhhh...u ankasa u be good boy oo<br><b>Clean</b>: ohh yhhh u ankasa u be good boy oo,code-switched,2022-12-12 11:36:45
+27,734,<b>Raw:</b> UK mensen waren een en al bad vibes dit jaar. https://t.co/wqsJvokcg1<br><b>Clean</b>: uk mensen waren een en al bad vibes dit jaar,,2022-12-12 11:36:53
+28,19292,<b>Raw:</b> Ei Debbie dawg me. Like 54 years this. Hmm<br><b>Clean</b>: ei debbie dawg me like 54 years this hmm,code-switched,2022-12-12 11:37:04
+29,17341,"<b>Raw:</b> @adjah_tetteh Thank you 😊
+Aponkye nkrakra oohhh 🤣🤣
+Make a take hold body 😂<br><b>Clean</b>: thank you aponkye nkrakra oohhh make a take hold body",code-switched,2022-12-12 11:37:09
+30,12546,<b>Raw:</b> @PulseGhana Agya koo and son👐<br><b>Clean</b>: agya koo and son,code-switched,2022-12-12 11:37:14
+31,19579,<b>Raw:</b> @BenopaOnyx1 Mateu Alemany bi football Albert Einstein....... the man get head Herh 😂<br><b>Clean</b>: mateu alemany bi football albert einstein the man get head herh,non_standard_english,2022-12-12 11:37:24
+32,5319,<b>Raw:</b> Hmmmmmm it's hard oo https://t.co/vcs0rIaIDu<br><b>Clean</b>: hmmmmmm its hard oo,,2022-12-12 11:37:28
+33,12549,<b>Raw:</b> @ako_bae1 @epixodemusic U sure abt ur fact? Coz ihr say he go Ghanata ooo<br><b>Clean</b>: u sure abt ur fact coz ihr say he go ghanata ooo,non_standard_english,2022-12-12 11:37:32
+34,7310,<b>Raw:</b> @Joshua_Ubeku @MagikalA Barce must take off 10 from fati ....clear<br><b>Clean</b>: barce must take off 10 from fati clear,non_standard_english,2022-12-12 11:37:43
+35,21640,<b>Raw:</b> @kento_sekine Bon séjour à Togo!<br><b>Clean</b>: bon séjour à togo,not_english,2022-12-12 11:37:49
+36,22015,"<b>Raw:</b> Dr. Hadiza Ladi Kwali, OON, MBE (1925-1984) is name of the woman on the Nigeria 20 Naira Note. Ladi Kwali was a porter, born in the village of Kwali in the Gwari region of Northern Nigeria, where pottery was an indigenous female tradition.
+
+#Blogger 🕊 https://t.co/dQe5xDZLG8<br><b>Clean</b>: dr hadiza ladi kwali oon mbe 1925 1984 is name of the woman on the nigeria 20 naira note ladi kwali was a porter born in the village of kwali in the gwari region of northern nigeria where pottery was an indigenous female tradition",,2022-12-12 11:37:53
+37,18318,<b>Raw:</b> @oduro_kweku Afrobeats it’s on Netflix 12 episodes very insightful<br><b>Clean</b>: afrobeats its on netflix 12 episodes very insightful,not-syntactic_standard_english,2022-12-12 11:38:01
+38,12534,<b>Raw:</b> #VGMA23 Dumbfounding performance by @samini_dagaati Akye...!<br><b>Clean</b>: dumbfounding performance by akye,not-syntactic_standard_english,2022-12-12 11:38:21
+39,2300,<b>Raw:</b> Illuminati get benefits waa<br><b>Clean</b>: illuminati get benefits waa,code-switched,2022-12-12 11:38:26
+40,13988,<b>Raw:</b> @joshsbro It better than Kante<br><b>Clean</b>: it better than kante,not-syntactic_standard_english,2022-12-12 11:38:36
+41,19941,<b>Raw:</b> @xChellz Witcho lil forehead protector 😊<br><b>Clean</b>: witcho lil forehead protector,non_standard_english,2022-12-12 11:38:41
+42,6824,"<b>Raw:</b> @SneakerNyame_ Yeah Eno b Sheldon
+His head like deflated watermelon
+He sanna block me too sake off isay Sarkodie dey rap pass manifest 
+Gbemi<br><b>Clean</b>: yeah eno b sheldon his head like deflated watermelon he sanna block me too sake off isay sarkodie dey rap pass manifest gbemi",code-switched,2022-12-12 11:39:03
+43,10280,<b>Raw:</b> @satyam1mishra Thanks for sharing Satyam🙏<br><b>Clean</b>: thanks for sharing satyam,full_standard_english,2022-12-12 11:39:16
+44,17516,<b>Raw:</b> @koboateng @unknown_eshun Drink water bro..... Chale do you do phone apps?<br><b>Clean</b>: drink water bro chale do you do phone apps,non_standard_english,2022-12-12 11:39:27
+45,2810,<b>Raw:</b> Arrr Trump no dey Twitter again anaa? https://t.co/RHTYnHqesL<br><b>Clean</b>: arrr trump no dey twitter again anaa,,2022-12-12 11:39:33
+46,22046,<b>Raw:</b> @Barbie_Dooo Bueii! Them overspeed o<br><b>Clean</b>: bueii them overspeed o,non_standard_english,2022-12-12 11:39:44
+47,11403,"<b>Raw:</b> Candle wax? On top waiting?
+🤣🤣🤣 
+
+Steph ma pami nah 🤣
+#AshewoSpace<br><b>Clean</b>: candle wax on top waiting steph ma pami nah",code-switched,2022-12-12 11:39:56
+48,7468,<b>Raw:</b> @NYboateng @mrpatriq @fosuaah_ wonni links to flagstaff? Wonny3 serious party member saaaa<br><b>Clean</b>: wonni links to flagstaff wonny3 serious party member saaaa,code-switched,2022-12-12 11:40:02
+49,14502,<b>Raw:</b> @SWISSPLUS Ei! Aa shock oo!<br><b>Clean</b>: ei aa shock oo,code-switched,2022-12-12 11:40:06
+50,22744,<b>Raw:</b> Did Ade beat Sheggz? #BBNaija<br><b>Clean</b>: did ade beat sheggz,full_standard_english,2022-12-12 11:40:14
+51,11889,"<b>Raw:</b> Nooooooo, he lost it cuz of the okro! 😑 https://t.co/SWLqFT8hyO https://t.co/jley4i6d6t<br><b>Clean</b>: nooooooo he lost it cuz of the okro",non_standard_english,2022-12-12 11:40:20
+52,6733,<b>Raw:</b> @gyaigyimii Down flat movement 😂😂(DFM)<br><b>Clean</b>: down flat movement dfm,not-syntactic_standard_english,2022-12-12 11:40:29
+53,17470,"<b>Raw:</b> @smartdapralem Lol nuumo you be stubborn 😅
+
+I come house sef<br><b>Clean</b>: lol nuumo you be stubborn i come house sef",non_standard_english,2022-12-12 11:40:36
+54,11862,<b>Raw:</b> @Kwame_Tsuca_1 You then the nigga get issue anaa ? 🤣🤣<br><b>Clean</b>: you then the nigga get issue anaa,non_standard_english,2022-12-12 11:40:43
+55,21061,"<b>Raw:</b> Giddyfire, Amaka is waiting for you on Saturday🤣🤣🤣 the violent taketh it by force 😂#BBNajia<br><b>Clean</b>: giddyfire amaka is waiting for you on saturday the violent taketh it by force",not-syntactic_standard_english,2022-12-12 11:41:23
+56,7609,<b>Raw:</b> Listen to RUN FOR YOUR LIFE ft. Medikal by Shatta Wale on Boomplay. https://t.co/V59jgz4Tet https://t.co/zcMuXtT01H<br><b>Clean</b>: listen to run for your life ft medikal by shatta wale on boomplay,,2022-12-12 11:41:26
+57,20849,<b>Raw:</b> 2021 locs... Now if you see it eh heeeerh https://t.co/jW77puHxGq<br><b>Clean</b>: 2021 locs now if you see it eh heeeerh,,2022-12-12 11:41:29
+58,8351,<b>Raw:</b> @_ChrissyA oh neighbor adey come 😅<br><b>Clean</b>: oh neighbor adey come,non_standard_english,2022-12-12 11:41:33
+59,11785,<b>Raw:</b> So apparently Afi POKUA [Vim Lady ] wanted to run E-Show on Okay FM but Kwame Nkrumah Tik3sea is sabotaging her ideas ; woah 💔<br><b>Clean</b>: so apparently afi pokua vim lady wanted to run e show on okay fm but kwame nkrumah tik3sea is sabotaging her ideas woah,code-switched,2022-12-12 11:41:53
+60,23180,<b>Raw:</b> You Amaka today you don’t Diana likes Giddyfia 😓😓 #BBNaija<br><b>Clean</b>: you amaka today you dont diana likes giddyfia,not-syntactic_standard_english,2022-12-12 11:42:05
+61,5336,<b>Raw:</b> @KyeiBernardo @didipreko @AsanteKotoko_SC Mk he go sleep<br><b>Clean</b>: mk he go sleep,non_standard_english,2022-12-12 11:42:08
+62,19041,"<b>Raw:</b> @iammokblaze @sarkodie Happy Glorious birthday,more grace<br><b>Clean</b>: happy glorious birthdaymore grace",not-syntactic_standard_english,2022-12-12 11:42:17
+63,19842,<b>Raw:</b> Anka black queens coach 😩😩😩 @MaryAfua_ @ayishatu_ @Akosua__Adjei @AkosuaFrimpoma @georgenitroduah @iambettyyawson @FelixRomark https://t.co/UEt6Yfoqcv<br><b>Clean</b>: anka black queens coach,,2022-12-12 11:42:24
+64,10697,"<b>Raw:</b> Vicky's Indomie Joint🍝🍗
+Location 📍 Tema Community 1 Site 14 Nearest BMT Sport
+Contact: 0243631844/0594215231
+24/7 Delivery✅
+The best indomie Joint in Tema😋😋
+@IndomieGhana https://t.co/mhyw9MIdYy<br><b>Clean</b>: vickys indomie joint location tema community 1 site 14 nearest bmt sport contact 02436318440594215231 247 delivery the best indomie joint in tema",,2022-12-12 11:42:29
+65,18407,"<b>Raw:</b> @MustafationAli @primevideosport @ManCity It’s at least 4 positions. Because RODRI, Bernardo Debryne Foden that’s 4<br><b>Clean</b>: its at least 4 positions because rodri bernardo debryne foden thats 4",not-syntactic_standard_english,2022-12-12 11:42:50
+66,15180,"<b>Raw:</b> Goat Messi for Ballon D'OR ... Benzema must be shaking by now 
+😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂😂
+#Finalissima https://t.co/kj28xVIzTK<br><b>Clean</b>: goat messi for ballon dor benzema must be shaking by now",,2022-12-12 11:42:53
+67,9325,"<b>Raw:</b> Propartners Exchange relaunched, outdoors its crowdfunding platform https://t.co/YmRs7wn3oI via @bftghana<br><b>Clean</b>: propartners exchange relaunched outdoors its crowdfunding platform via",,2022-12-12 11:43:01
+68,15953,<b>Raw:</b> Falz released an album?<br><b>Clean</b>: falz released an album,not-syntactic_standard_english,2022-12-12 11:43:09
+69,853,"<b>Raw:</b> Dear mr sugar daddy🎅 @KiDiMusic ,your heartbeat is trending bahd bahd bahd!!! https://t.co/rhKrPeA4mx<br><b>Clean</b>: dear mr sugar daddy your heartbeat is trending bahd bahd bahd",,2022-12-12 11:43:14
+70,9916,<b>Raw:</b> 2sure tryn to finesse things #DateRush https://t.co/OfmAPY0U9h<br><b>Clean</b>: 2sure tryn to finesse things,,2022-12-12 11:43:18
+71,22602,<b>Raw:</b> suarez signaling neymar to pass messi and later making the run to set up neymar himself https://t.co/QCwCqDPumv<br><b>Clean</b>: suarez signaling neymar to pass messi and later making the run to set up neymar himself,,2022-12-12 11:43:25
+72,10801,<b>Raw:</b> @shattawalegh @Yumvita3 0204027773 I'm Burna Boy fan<br><b>Clean</b>: 0204027773 im burna boy fan,not-syntactic_standard_english,2022-12-12 11:43:40
+73,7166,<b>Raw:</b> Women in red &gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;&gt;<br><b>Clean</b>: women in red gtgtgtgtgtgtgtgtgt,not-syntactic_standard_english,2022-12-12 11:43:46
+74,12125,<b>Raw:</b> Red smile @ Kasland City https://t.co/paciv5kYyr<br><b>Clean</b>: red smile kasland city,,2022-12-12 11:44:08
+75,16925,<b>Raw:</b> @_Nhyira_ Herh soft life dey fit you Ankasa<br><b>Clean</b>: herh soft life dey fit you ankasa,code-switched,2022-12-12 11:44:12
+76,11175,<b>Raw:</b> Dem go be super proud of am waa https://t.co/i5aURUFaJH<br><b>Clean</b>: dem go be super proud of am waa,,2022-12-12 11:44:15
+77,19557,<b>Raw:</b> who invited white lakaka ??? https://t.co/3yd1uVbezZ https://t.co/HwY8VJD3dt<br><b>Clean</b>: who invited white lakaka,,2022-12-12 11:44:17
+78,12141,<b>Raw:</b> @w_letters @iamopele Ebi fooling dem fool...no be poverty<br><b>Clean</b>: ebi fooling dem fool no be poverty,non_standard_english,2022-12-12 11:44:22
+79,1429,<b>Raw:</b> @jbonzy Ebi Costa p3 actually did the job oo cos chaley<br><b>Clean</b>: ebi costa p3 actually did the job oo cos chaley,non_standard_english,2022-12-12 11:44:31
+80,22149,"<b>Raw:</b> If Violence Was A Person Ebi Bongo, Eiii😂😂😂😂<br><b>Clean</b>: if violence was a person ebi bongo eiii",code-switched,2022-12-12 11:44:37
+81,7064,<b>Raw:</b> ‘walahi Maggie is playing against us bro.’ https://t.co/KnE8VQrKBY<br><b>Clean</b>: walahi maggie is playing against us bro,,2022-12-12 11:44:40
+82,28,"<b>Raw:</b> @shattawalegh Wale
+Relax o bro<br><b>Clean</b>: wale relax o bro",non_standard_english,2022-12-12 11:44:45
+83,21229,<b>Raw:</b> My experience is Ashiaman and Bremen Kokoso #DNBP<br><b>Clean</b>: my experience is ashiaman and bremen kokoso,not-syntactic_standard_english,2022-12-12 11:44:55
+84,3161,<b>Raw:</b> @noah_diallo @shiftedwomb Dnt mind her....we wnt even say anithing to her...<br><b>Clean</b>: dnt mind her we wnt even say anithing to her,non_standard_english,2022-12-12 11:45:00
+85,16395,<b>Raw:</b> Asey boys woy3 nniama wo Accra ha oo #DNBP<br><b>Clean</b>: asey boys woy3 nniama wo accra ha oo,some_english,2022-12-12 11:45:08
+86,7029,<b>Raw:</b> Walai i can't wait 😣🤧 https://t.co/J8r4ZuoSlr<br><b>Clean</b>: walai i cant wait,,2022-12-12 11:45:14
+87,21217,"<b>Raw:</b> LATEST:There’s a fire outbreak in Tudu, Accra https://t.co/XkJbOiSQ9r<br><b>Clean</b>: latesttheres a fire outbreak in tudu accra",,2022-12-12 11:45:18
+88,18464,<b>Raw:</b> The math ain't mathing 😂😂<br><b>Clean</b>: the math aint mathing,non_standard_english,2022-12-12 11:45:24
+89,5173,<b>Raw:</b> @_Abdul_Manan_ Make she see Shatta Michy for a remedy<br><b>Clean</b>: make she see shatta michy for a remedy,non_standard_english,2022-12-12 11:45:28
+90,7281,<b>Raw:</b> @iLatif_ How’s that your concern?<br><b>Clean</b>: hows that your concern,full_standard_english,2022-12-12 11:45:34
+91,9486,<b>Raw:</b> I’ve abstained long enough<br><b>Clean</b>: ive abstained long enough,full_standard_english,2022-12-12 11:45:39
+92,8194,<b>Raw:</b> @Kristabel_yaa I just did &gt;&gt;&gt;&gt;<br><b>Clean</b>: i just did gtgtgtgt,non_standard_english,2022-12-12 11:45:46
+93,4402,"<b>Raw:</b> “If we don’t have Kwaku, Kwame is there” - Coach Samuel Boadu
+
+#GPL<br><b>Clean</b>: if we dont have kwaku kwame is there coach samuel boadu",full_standard_english,2022-12-12 11:45:52
+94,20817,<b>Raw:</b> Sheggz don miss road #BBNaija<br><b>Clean</b>: sheggz don miss road,non_standard_english,2022-12-12 11:45:58
+95,21231,<b>Raw:</b> @BoyKelzz @sergio_de_ennin 😂😂🤲the guy fuckup wàaa<br><b>Clean</b>: the guy fuckup wàaa,code-switched,2022-12-12 11:46:07
+96,4742,"<b>Raw:</b> Hear me out
+Countre milk vanilla + hobnobs milk chocolate 😩😍💯<br><b>Clean</b>: hear me out countre milk vanilla hobnobs milk chocolate",non_standard_english,2022-12-12 11:46:13
+97,24168,<b>Raw:</b> @HonMills ah the way fante's dema eye open see what yu do give dem<br><b>Clean</b>: ah the way fantes dema eye open see what yu do give dem,code-switched,2022-12-12 11:46:20
+98,21895,<b>Raw:</b> @dfordamyy IKR. But my Ghanaian people keep saying Asake<br><b>Clean</b>: ikr but my ghanaian people keep saying asake,not-syntactic_standard_english,2022-12-12 11:46:26
+99,10503,"<b>Raw:</b> WTF is that zhit you dropped bebe, that's not a song bebe. Its not even a vibe bebe... Back to the drawing board bebe.<br><b>Clean</b>: wtf is that zhit you dropped bebe thats not a song bebe its not even a vibe bebe back to the drawing board bebe",non_standard_english,2022-12-12 11:46:36
