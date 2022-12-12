@@ -1,0 +1,173 @@
+,id_column,annotate_text,label,annotated_at
+0,12184,<b>Raw:</b> @RajaBrar_INC Eid ul Fitr Mubarak to you and All Congressmen https://t.co/8YExG20ppg<br><b>Clean</b>: eid ul fitr mubarak to you and all congressmen,code-switched,2022-12-10 20:23:12
+1,19205,<b>Raw:</b> @WasiuddinSiddi1 Ainu bhi karo andar 😡<br><b>Clean</b>: ainu bhi karo andar,not_english,2022-12-10 20:23:18
+2,5494,<b>Raw:</b> @dhairya_PJS Yaar ye hai kya cheez.. Been seeing it around quite a lot.<br><b>Clean</b>: yaar ye hai kya cheez been seeing it around quite a lot,code-switched,2022-12-10 20:23:22
+3,281,"<b>Raw:</b> Do gaj ki duri ,
+Mask hai jaruri ❣️
+#MaskUpIndia https://t.co/BpxCXxrVI5<br><b>Clean</b>: do gaj ki duri mask hai jaruri",some_english,2022-12-10 20:23:26
+4,9450,"<b>Raw:</b> Hey @ReallySwara , at your service!
+- Brahamastra🤭😉🤣😂🐱✌️
+Ola Hai Ki Uber🤣😂 https://t.co/lkTsn5DCY0<br><b>Clean</b>: hey at your service brahamastra ola hai ki uber",code-switched,2022-12-10 20:23:30
+5,19790,<b>Raw:</b> In rangpuri mahipalpur area near aerosity we facing this. 4 hours<br><b>Clean</b>: in rangpuri mahipalpur area near aerosity we facing this 4 hours,not-syntactic_standard_english,2022-12-10 20:23:44
+6,4319,<b>Raw:</b> धर्म कर्म में विश्वास रखने वाले हसमुख मिलनसार @BJP4Delhi के कोषाध्यक्ष मेरे बड़े भाई @visshnumittal जी को शादी की वर्षगांठ की हार्दिक शुभकामनाएं बधाई. God bless you bhaiya. https://t.co/uWC8KJ8JRh<br><b>Clean</b>: god bless you bhaiya,code-switched,2022-12-10 20:23:47
+7,17851,"<b>Raw:</b> Painted cubone, embarking on a new journey. Thank you! 
+
+#pokemon #cubone #digitalpainting  #PokemonArt  @Pokemon https://t.co/sULpbBgAc3<br><b>Clean</b>: painted cubone embarking on a new journey thank you",full_standard_english,2022-12-10 20:23:58
+8,797,<b>Raw:</b> Public winner Umar riaz<br><b>Clean</b>: public winner umar riaz,not-syntactic_standard_english,2022-12-10 20:24:02
+9,293,"<b>Raw:</b> I,Tanvi Sharma,Law Student of Shri Gobind Singh Inderparstha , University,Delhi Dr.Vijay whose clinic""Sonadi Animal Care Centre""
+I request ur @narendramodi
+to inspect his clinic and ban him from practising in future @PMOIndia @PRupala @CPDelhi @LtGovDelhi https://t.co/S2HhEgJK8O<br><b>Clean</b>: itanvi sharmalaw student of shri gobind singh inderparstha universitydelhi dr vijay whose clinicsonadi animal care centre i request ur to inspect his clinic and ban him from practising in future",code-switched,2022-12-10 20:24:06
+10,9834,"<b>Raw:</b> 🚩🚩🚩🚩🚩🚩🚩🚩🚩
+  *जय श्री राम, जय माता दी*
+
+*नवरात्रि पर्व एवं भगवान श्री राम जी के अवतरण महोत्सव की आप सबको हार्दिक शुभकामनाएं*
+*भगवान श्री हरि के रूप में माता लक्ष्मी जी के साथ आपके ह्रदय में वास करें एवं परिवार में कृपा करें*
+🙏Jai Hind 🇮🇳  Jai sanaatan🙏 🕉🚩🚩🚩🚩🚩🚩🚩<br><b>Clean</b>: jai hind jai sanaatan",not_english,2022-12-10 20:24:10
+11,7770,<b>Raw:</b> @Cappuccin003 Isse v bara common issue 'Aur chalao phone' 🥲✨<br><b>Clean</b>: isse v bara common issue aur chalao phone,code-switched,2022-12-10 20:24:14
+12,2762,"<b>Raw:</b> @dishaistired Idk you'll always be sweeter
+And i am 20🥲
+Stop treating me like a kid<br><b>Clean</b>: idk youll always be sweeter and i am 20 stop treating me like a kid",non_standard_english,2022-12-10 20:24:20
+13,7239,<b>Raw:</b> Satpal Maharaj is first like for next president. जय श्री राम जय श्री कृष्ण हर हर महादेव जय भवानी<br><b>Clean</b>: satpal maharaj is first like for next president,not-syntactic_standard_english,2022-12-10 20:24:26
+14,18281,"<b>Raw:</b> #NariShaktiDeshKiShakti
+PM Modi will be attending a programme in Prayagraj and will be transferring ₹20 lakh crores to 1 lakh beneficiaries of Mukhya Mantri Kanya Sumangala Scheme.<br><b>Clean</b>: pm modi will be attending a programme in prayagraj and will be transferring 20 lakh crores to 1 lakh beneficiaries of mukhya mantri kanya sumangala scheme",code-switched,2022-12-10 20:24:35
+15,21471,<b>Raw:</b> @TheNavneet_ Jai hind🇮🇳 Jai sanatan 🙏🕉🚩🚩<br><b>Clean</b>: jai hind jai sanatan,not_english,2022-12-10 20:24:38
+16,7475,<b>Raw:</b> @imsandhya2021 Khudh ko badlo ladle bahut sare h<br><b>Clean</b>: khudh ko badlo ladle bahut sare h,not_english,2022-12-10 20:24:41
+17,2034,<b>Raw:</b> @SwatiKu08089551 Kya baat hai v.v hot 🔥 pic<br><b>Clean</b>: kya baat hai v v hot pic,some_english,2022-12-10 20:24:45
+18,19622,<b>Raw:</b> @aajtak 🙏🏻💐🙏🏻 NAMASTE Please sport me https://t.co/6oBclD7UKC<br><b>Clean</b>: namaste please sport me,code-switched,2022-12-10 20:24:51
+19,24011,<b>Raw:</b> @ranvijaylive @Saankritvishal Shameless BJP leader n Shameless BJP administration in UP.<br><b>Clean</b>: shameless bjp leader n shameless bjp administration in up,non_standard_english,2022-12-10 20:24:58
+20,2095,<b>Raw:</b> @Danish29804850 @_sayema Tere kaun papa hai...do you know?<br><b>Clean</b>: tere kaun papa hai do you know,code-switched,2022-12-10 20:25:01
+21,22583,"<b>Raw:</b> Azadi ke Subah... 
+I knew the True Meaning of Azadi.. 
+
+#HappyIndependenceday2022 
+#HappyIndependenceDay
+#happyindependencedayindia https://t.co/C1OJDuEMae<br><b>Clean</b>: azadi ke subah i knew the true meaning of azadi",code-switched,2022-12-10 20:25:04
+22,21881,<b>Raw:</b> @aksharmaBharat @UPPCLLKO @pvvnlghaziabad @PVVNLHQ @CMOfficeUP @mduppcl @myogioffice @myogiadityanath  I request to upgovt and uppcl please help because 3k to 4k people stay without electricity and water in ghaziabad city dubh chetra Hindon kanawani village. https://t.co/W4eXVUn9ZR<br><b>Clean</b>: i request to upgovt and uppcl please help because 3k to 4k people stay without electricity and water in ghaziabad city dubh chetra hindon kanawani village,code-switched,2022-12-10 20:25:10
+23,1275,"<b>Raw:</b> @saurabhtop @me_Garima3 @LallantopSports Your interview with yogi proved how ill educated you are in journalism. No follow up questions, jo kahani  suna diya, usse huu huu kar ke sun liya. You lacked balls to probe with any counter question, saurabh! I must say, tumlog desi gamcha maar desi bechte ho. #Farzikhadijourno<br><b>Clean</b>: your interview with yogi proved how ill educated you are in journalism no follow up questions jo kahani suna diya usse huu huu kar ke sun liya you lacked balls to probe with any counter question saurabh i must say tumlog desi gamcha maar desi bechte ho",code-switched,2022-12-10 20:58:13
+24,23447,<b>Raw:</b> @JM_Scindia kya haal hai aiport ka at 430am. Completely mismanaged. Why can't you deploy more security people. Look at the lines https://t.co/oQyW1HCZjt<br><b>Clean</b>: kya haal hai aiport ka at 430am completely mismanaged why cant you deploy more security people look at the lines,code-switched,2022-12-10 20:58:16
+25,18566,<b>Raw:</b> @joedelhi Yes Ajay he claimed to be with DCP<br><b>Clean</b>: yes ajay he claimed to be with dcp,code-switched,2022-12-10 20:58:19
+26,14683,<b>Raw:</b> @QueenPopstone @MayaramArvind And like Dr Arvind :)<br><b>Clean</b>: and like dr arvind,non_standard_english,2022-12-10 20:58:22
+27,23745,<b>Raw:</b> @ipathak25 look out notice nikaala ha hai bevakuf<br><b>Clean</b>: look out notice nikaala ha hai bevakuf,code-switched,2022-12-10 20:58:26
+28,16754,<b>Raw:</b> ہر تعلق کی حقیقت وقت بتا دیتا ہے..🙌😏 @ Teri Aukat Se Bhar https://t.co/MVnpwbxfjJ<br><b>Clean</b>: teri aukat se bhar,not_english,2022-12-10 20:58:30
+29,3070,<b>Raw:</b> @umashankarsingh Wow Acha Keya Reporter ye logo Na Kishan Na Natha ye Chor hai Jo maney back mil Jay bas ye hi kam hai...fir unke ley bolna<br><b>Clean</b>: wow acha keya reporter ye logo na kishan na natha ye chor hai jo maney back mil jay bas ye hi kam hai fir unke ley bolna,some_english,2022-12-10 20:58:36
+30,18738,"<b>Raw:</b> India bulls because they see difference in every customer.
+
+Aap ko Instagram per message bhi kiya koi reply nahi aaya hai.<br><b>Clean</b>: india bulls because they see difference in every customer aap ko instagram per message bhi kiya koi reply nahi aaya hai",code-switched,2022-12-10 20:58:40
+31,4980,<b>Raw:</b> Inna lillahi wa inna ilayhir raji’un. Kullu nafsin za’ikatul Breasfast. Last morning i missed my presentation following a hot breakfast i sustained as a result of loving this wicked girl wholeheartedly.💔😭<br><b>Clean</b>: inna lillahi wa inna ilayhir rajiun kullu nafsin zaikatul breasfast last morning i missed my presentation following a hot breakfast i sustained as a result of loving this wicked girl wholeheartedly,code-switched,2022-12-10 20:58:43
+32,7097,<b>Raw:</b> @Ch_AnilKumarINC Agr ye haqeqt hai https://t.co/2qYrnsz2DH<br><b>Clean</b>: agr ye haqeqt hai,not_english,2022-12-10 20:58:46
+33,8278,<b>Raw:</b> I am embarassed for this okes family. https://t.co/A0Sl2ot2d7<br><b>Clean</b>: i am embarassed for this okes family,non_standard_english,2022-12-10 20:58:49
+34,15847,<b>Raw:</b> @swati_gs @techietushar_ Isi baat ka fayda uthatey hai ye pests. Koi action Ho to minorities ka rona 😡<br><b>Clean</b>: isi baat ka fayda uthatey hai ye pests koi action ho to minorities ka rona,some_english,2022-12-10 20:58:54
+35,11220,"<b>Raw:</b> Being able to enjoy sehri at Zakir Nagar is in itself a huge Nemat.
+#RamadanMubarak #Ramadan https://t.co/mCV5OVDgFd<br><b>Clean</b>: being able to enjoy sehri at zakir nagar is in itself a huge nemat",code-switched,2022-12-10 20:58:58
+36,10896,<b>Raw:</b> @jvalaaa Guru Gobind Singh ji<br><b>Clean</b>: guru gobind singh ji,not_english,2022-12-10 20:59:01
+37,13997,"<b>Raw:</b> “I gave up my life to learn how to save yours.”
+Ab ye quote padh k aisa lag ra ki sach me doctors apni jaan dere dusro ki bachani ki chah me!!
+#doctors #neetpgaspirant #NEETPG2022 #NEETPG2022postpone #NMC 
+@narendramodi @PMOIndia @AmitShah @NMC_IND @mansukhmandviya @MoHFW_INDIA<br><b>Clean</b>: i gave up my life to learn how to save yours ab ye quote padh k aisa lag ra ki sach me doctors apni jaan dere dusro ki bachani ki chah me",code-switched,2022-12-10 20:59:04
+38,10719,"<b>Raw:</b> Some of the glimpse of visit at CHC Bairdah, District Singrauli as a National Assessor during State #EVMAssessment 2022 Madhya Pradesh. @nccvmrc @nihfw_India @healthminmp @UNICEFIndia https://t.co/VIi4hSe93V<br><b>Clean</b>: some of the glimpse of visit at chc bairdah district singrauli as a national assessor during state 2022 madhya pradesh",non_standard_english,2022-12-10 20:59:09
+39,1183,<b>Raw:</b> Just posted a photo @ ASTRO Shaliini Malhottra https://t.co/MiuLXhBe3m<br><b>Clean</b>: just posted a photo astro shaliini malhottra,,2022-12-10 20:59:12
+40,13965,<b>Raw:</b> @AmanGosain14 @GreatGoatsNFT @jezzworker @FamousCloudzz It's looking awesome bro 🔥🦌<br><b>Clean</b>: its looking awesome bro,not-syntactic_standard_english,2022-12-10 20:59:16
+41,8467,"<b>Raw:</b> It is so obvious with the way Saisha was evicted that she will come back as a wildcard entry. LockUpp walo, kuch toh creative aur unpredictable karo 😂
+
+#MunawarFaruqui #lockupp<br><b>Clean</b>: it is so obvious with the way saisha was evicted that she will come back as a wildcard entry lockupp walo kuch toh creative aur unpredictable karo",code-switched,2022-12-10 20:59:24
+42,582,<b>Raw:</b> Aj delhi airport me 10 euro na dene ke chkr me ek person ko positive bna diya he jo negative he<br><b>Clean</b>: aj delhi airport me 10 euro na dene ke chkr me ek person ko positive bna diya he jo negative he,code-switched,2022-12-10 20:59:27
+43,22217,<b>Raw:</b> Happy Rakshabandhan Lil sister #HappyRakshaBandhan #Rakhi https://t.co/MnhhTjjJYa<br><b>Clean</b>: happy rakshabandhan lil sister,non_standard_english,2022-12-10 20:59:31
+44,23080,"<b>Raw:</b> Add me on Snapchat! Username: yash.suri
+ https://t.co/9334ZP28lY https://t.co/dMvlJPKxKp<br><b>Clean</b>: add me on snapchat username yash suri",full_standard_english,2022-12-10 20:59:37
+45,12253,"<b>Raw:</b> @ranvijaylive @Uppolice 
+
+Kaunsa rapist bhar rakhe hain police main
+@myogiadityanath<br><b>Clean</b>: kaunsa rapist bhar rakhe hain police main",some_english,2022-12-10 20:59:42
+46,21184,<b>Raw:</b> @kripalani_d @HinduNatl @AmitShah @narendramodi @rashtrapatibhvn YES YOU'RE RIGHT SIR<br><b>Clean</b>: yes youre right sir,non_standard_english,2022-12-10 20:59:46
+47,9226,<b>Raw:</b> @journosaurav @ArvindKejriwal Isko baas itna puchhna ki Jo free me bant rahe he wo Paisa a kaha se raha he<br><b>Clean</b>: isko baas itna puchhna ki jo free me bant rahe he wo paisa a kaha se raha he,some_english,2022-12-10 20:59:51
+48,17761,<b>Raw:</b> @KotwalMeena @free_thinker @zoo_bear More burnol for you @KotwalMeena https://t.co/IfslIyfjKG<br><b>Clean</b>: more burnol for you,non_standard_english,2022-12-10 20:59:54
+49,17643,"<b>Raw:</b> @Asharamjiashrm सत्य है, Sant Shri Asharamji Bapu सनातन धर्म के मजबूत स्तम्भ है उन्हें षड़यन्त्र मे फंसाकर सनातन धर्म पर आघात किया गया है । 
+  बापूजी ने गरीब आदिवासियों के लिए कल्याणकारी योजनाए चलाकर धर्मान्तरण पर रोक लगायी थी । Save Hindu Saints
+Raise Your Voice
+Hindus Must Unite<br><b>Clean</b>: sant shri asharamji bapu save hindu saints raise your voice hindus must unite",code-switched,2022-12-10 20:59:56
+50,14340,"<b>Raw:</b> Mujhe neend aari thi
+Mene coffee order ki
+Coffee me sugar kam thi
+Mene sugar mangai
+Mix ki
+Fir kam lagi
+Fir mangai
+Fir mix ki
+Fir pii
+Aur 
+Fir
+Coffee thandi ho gayi
+🦄
+Good night guys<br><b>Clean</b>: mujhe neend aari thi mene coffee order ki coffee me sugar kam thi mene sugar mangai mix ki fir kam lagi fir mangai fir mix ki fir pii aur fir coffee thandi ho gayi good night guys",code-switched,2022-12-10 20:59:59
+51,2410,<b>Raw:</b> PRATIK DESERVES BB TROPHY<br><b>Clean</b>: pratik deserves bb trophy,non_standard_english,2022-12-10 21:00:03
+52,24020,<b>Raw:</b> que tesao eh esse de escutar waka waka o dia todo<br><b>Clean</b>: que tesao eh esse de escutar waka waka o dia todo,not_english,2022-12-10 21:00:06
+53,22450,<b>Raw:</b> @LondonFire Only hosereel drum price 1100 https://t.co/YN2F26F4bm<br><b>Clean</b>: only hosereel drum price 1100,code-switched,2022-12-10 21:00:13
+54,4484,<b>Raw:</b> @nidhilive11 Jai jai shri Ram<br><b>Clean</b>: jai jai shri ram,not_english,2022-12-10 21:00:15
+55,14214,<b>Raw:</b> @SuazoUli @PopBase Nope bts did easily<br><b>Clean</b>: nope bts did easily,non_standard_english,2022-12-10 21:00:18
+56,17257,"<b>Raw:</b> एसडीएम वसंत विहार, केजरीवाल कार्यालय में अधिकारी भ्रष्टाचार के आरोप में निलंबित @BJP4Delhi @blsanthosh @rajeshbhatiabjp #https://www.news18.com/news/politics/deputy-secretary-in-cm-kejriwals-office-2-sdms-suspended-by-delhi-lg-on-corruption-charges-sources-5422669.html<br><b>Clean</b>: www news18 comnewspoliticsdeputy secretary in cm kejriwals office 2 sdms suspended by delhi lg on corruption charges sources 5422669 html",code-switched,2022-12-10 21:00:22
+57,2512,"<b>Raw:</b> @Rajsing51780690 @shinninggstar08 Finale week Tak kaun narrative set karta h? Makers vs kk
+BB15 TROPHY AWAITS KARAN<br><b>Clean</b>: finale week tak kaun narrative set karta h makers vs kk bb15 trophy awaits karan",code-switched,2022-12-10 21:00:26
+58,24021,<b>Raw:</b> Just posted a photo @ Jawahar Lal Nehru University https://t.co/gel6efTXke<br><b>Clean</b>: just posted a photo jawahar lal nehru university,,2022-12-10 21:00:28
+59,20519,<b>Raw:</b> 1 game a week ronaldo :) https://t.co/nrEhlGFToQ<br><b>Clean</b>: 1 game a week ronaldo,not-syntactic_standard_english,2022-12-10 21:00:35
+60,6320,"<b>Raw:</b> ®Daniel Electric @ Noida Extension, Greater Noida West https://t.co/mf0n4CNXm5<br><b>Clean</b>: daniel electric noida extension greater noida west",,2022-12-10 21:00:37
+61,20501,<b>Raw:</b> @AnubhavVeer Happy Birthday Our Very Special Most Talented Bhai Anubhav🎂💐🥳<br><b>Clean</b>: happy birthday our very special most talented bhai anubhav,code-switched,2022-12-10 21:00:45
+62,4894,"<b>Raw:</b> @LadebW 0.1 $ETH
+Captive in despair
+https://t.co/MDJWVYRI81 https://t.co/0GxMUwNqKr<br><b>Clean</b>: 0 1 eth captive in despair",non_standard_english,2022-12-10 21:00:47
+63,7328,<b>Raw:</b> @KapilSharmaK9 @BeingSalmanKhan shame on u both. Ganesh ji Pooja karte hoo. Kya sab doong karte hoo. Why not #KashmirFilesMovie  u allow at #TKSS . Kashmir is mine<br><b>Clean</b>: shame on u both ganesh ji pooja karte hoo kya sab doong karte hoo why not u allow at kashmir is mine,code-switched,2022-12-10 21:00:55
+64,16344,"<b>Raw:</b> Happy Birthday 💐💐
+May Allah Subhanahu Ta'ala
+Gives You A Long And Healthy
+Life With Lot Of Happiness ...#Aameen
+@imAkbarOwaisi Sahab
+
+Aimim- All India Majlis-E-Ittehadul Muslimeen Delhi https://t.co/dHDuohSy7h<br><b>Clean</b>: happy birthday may allah subhanahu taala gives you a long and healthy life with lot of happiness sahab aimim all india majlis e ittehadul muslimeen delhi",code-switched,2022-12-10 21:05:29
+65,21004,<b>Raw:</b> Just posted a photo @ Jawahar Lal Nehru University https://t.co/UrrIv6EEob<br><b>Clean</b>: just posted a photo jawahar lal nehru university,,2022-12-10 21:05:32
+66,7675,<b>Raw:</b> @TikooSahil_ @RajaMuneeb कश्मीर घाटी में इंटरनेट सेवा बेहतर हुई या नहीं इसकी मुझे ख़बर नहीं - क्षमा चाहता हूं। Computer Science Engineering ke subjects seekhein free mein - AKTU lectures: https://t.co/u4r0DkXZkU<br><b>Clean</b>: computer science engineering ke subjects seekhein free mein aktu lectures,code-switched,2022-12-10 21:05:36
+67,16455,<b>Raw:</b> @Nidhi Now you have a job back with NDTV ..was misrable life without ndtv. But OMA_ Didn't support you .. he ditched ..<br><b>Clean</b>: now you have a job back with ndtv was misrable life without ndtv but oma didnt support you he ditched,non_standard_english,2022-12-10 21:05:49
+68,7085,"<b>Raw:</b> Warm Birthday greetings to Shri @RamVSatpute Ji, MLA of Malshiras Constituency, Maharashtra.May Shri Maa Baglamukhi bless you with a happy and healthy life.<br><b>Clean</b>: warm birthday greetings to shri ji mla of malshiras constituency maharashtra may shri maa baglamukhi bless you with a happy and healthy life",code-switched,2022-12-10 21:05:55
+69,11971,<b>Raw:</b> Give him ballon Dr 🏆 https://t.co/mG3jasn7O9<br><b>Clean</b>: give him ballon dr,non_standard_english,2022-12-10 21:05:58
+70,7221,<b>Raw:</b> @themehrozkhan Bey oo Chutya jihadi<br><b>Clean</b>: bey oo chutya jihadi,not_english,2022-12-10 21:06:01
+71,19062,<b>Raw:</b> Koi ni rokk sakta is baar World Cup jeetne se. https://t.co/8Z4yAccC9W<br><b>Clean</b>: koi ni rokk sakta is baar world cup jeetne se,some_english,2022-12-10 21:06:04
+72,19814,<b>Raw:</b> @CBRW08 Not arresting nupur Sharma is like a tight slap on Ajit doval's face....<br><b>Clean</b>: not arresting nupur sharma is like a tight slap on ajit dovals face,not-syntactic_standard_english,2022-12-10 21:06:13
+73,22907,<b>Raw:</b> Is my daughter sanskriti https://t.co/us6WEGIId8<br><b>Clean</b>: is my daughter sanskriti,not-syntactic_standard_english,2022-12-10 21:06:18
+74,4483,<b>Raw:</b> @nidhilive11 Jai jai shri Ram<br><b>Clean</b>: jai jai shri ram,not_english,2022-12-10 21:06:20
+75,23243,<b>Raw:</b> @mla_sudhakar Good going Dr Sudhakar<br><b>Clean</b>: good going dr sudhakar,not-syntactic_standard_english,2022-12-10 21:06:24
+76,20620,<b>Raw:</b> good morning mere bachoo https://t.co/EvWVoRqzSU<br><b>Clean</b>: good morning mere bachoo,code-switched,2022-12-10 21:06:27
+77,13884,<b>Raw:</b> @Prafull_mbachai @imVkohli I love ❤ you Virat! @imVkohli<br><b>Clean</b>: i love you virat,full_standard_english,2022-12-10 21:06:36
+78,23906,"<b>Raw:</b> PM addresses a programme marking the commemoration of 40 years of Suzuki in India, Mahatma Mandir, Gandhinagar
+https://t.co/Pi1l8ANNyg via NaMo App https://t.co/VEhftofDaT<br><b>Clean</b>: pm addresses a programme marking the commemoration of 40 years of suzuki in india mahatma mandir gandhinagar via namo app",non_standard_english,2022-12-10 21:06:46
+79,2186,"<b>Raw:</b> Sizzling 6M hone waale h 
+
+PRATIK DESERVES BB TROPHY<br><b>Clean</b>: sizzling 6m hone waale h pratik deserves bb trophy",code-switched,2022-12-10 21:06:49
+80,13073,<b>Raw:</b> When Leela shot Ram https://t.co/BcyzPEGqsM<br><b>Clean</b>: when leela shot ram,code-switched,2022-12-10 21:06:54
+81,7084,"<b>Raw:</b> @khanumarfa must watch !! Kavi ye bhi post dal diya kro ki kaunse logo ko Kashmir se nikala gya✌️ #KashmirFiles @vivekagnihotri what a movie, salute you sir...full pack #saturdaynight<br><b>Clean</b>: must watch kavi ye bhi post dal diya kro ki kaunse logo ko kashmir se nikala gya what a movie salute you sir full pack",code-switched,2022-12-10 21:06:57
+82,2406,<b>Raw:</b> Good morning 🌄 My all'friends https://t.co/MXt2OgY2f3<br><b>Clean</b>: good morning my allfriends,non_standard_english,2022-12-10 21:07:00
+83,276,<b>Raw:</b> Today i am Going to Dehradun Uttrakhand https://t.co/g7UjcRr5dj<br><b>Clean</b>: today i am going to dehradun uttrakhand,not-syntactic_standard_english,2022-12-10 21:07:04
+84,2980,"<b>Raw:</b> Letter to my father way back in March , 1961 from Gurukul Kurukshetra, Haryana. https://t.co/MNvnIEYdvj<br><b>Clean</b>: letter to my father way back in march 1961 from gurukul kurukshetra haryana",full_standard_english,2022-12-10 21:07:14
+85,10749,<b>Raw:</b> @Sadia92246167 Happy belated birthday sadia🌸<br><b>Clean</b>: happy belated birthday sadia,full_standard_english,2022-12-10 21:07:20
+86,20375,<b>Raw:</b> Or sab se badi baat tho ye hai ki Jo yaan ke CEO hai wo bhi thakur hai or wo bhi apne thakur biradri ki side le rhe hai<br><b>Clean</b>: or sab se badi baat tho ye hai ki jo yaan ke ceo hai wo bhi thakur hai or wo bhi apne thakur biradri ki side le rhe hai,some_english,2022-12-10 21:07:25
+87,17251,"<b>Raw:</b> Wach this new video :-
+
+https://t.co/vOfEFpdUQS<br><b>Clean</b>: wach this new video",,2022-12-10 21:07:28
+88,9768,<b>Raw:</b> Civil engg on work https://t.co/KGWmbiNwcu<br><b>Clean</b>: civil engg on work,non_standard_english,2022-12-10 21:07:30
+89,11721,"<b>Raw:</b> @BhaavnaArora Aunty basic to padh leti tweet karne se pehle
+
+Even in urdu 
+Numerics are read Left to right<br><b>Clean</b>: aunty basic to padh leti tweet karne se pehle even in urdu numerics are read left to right",code-switched,2022-12-10 21:07:34
+90,5900,<b>Raw:</b> Peer programming is underrated #programming<br><b>Clean</b>: peer programming is underrated,not-syntactic_standard_english,2022-12-10 21:07:38
+91,7988,"<b>Raw:</b> Plan C para ir al mundial .
+Me llegó el mail y yo rara vez digo que no 
+https://t.co/DvNsZUZ548<br><b>Clean</b>: plan c para ir al mundial me llegó el mail y yo rara vez digo que no",not_english,2022-12-10 21:07:41
+92,20381,<b>Raw:</b> The one &amp; only Shri R.N. Kao🙏🏻 https://t.co/mM8d0X9W3X<br><b>Clean</b>: the one and only shri r n kao,code-switched,2022-12-10 21:07:46
+93,13810,<b>Raw:</b> KANIHYA MITTAL NEW SONG - LISTEN &amp; SHARE @sabakaul1 https://t.co/tFlMTn6emR<br><b>Clean</b>: kanihya mittal new song listen and share,code-switched,2022-12-10 21:07:50
+94,12899,<b>Raw:</b> @KashifkMIM @SantoshKrRajpo1 @WasimAkramTyagi @RubikaLiyaquat Ram Ram ji 🔥🙏🚩 Yeh sapna sapna hi rahega beta .. Jay Shree Ram 💪<br><b>Clean</b>: ram ram ji yeh sapna sapna hi rahega beta jay shree ram,not_english,2022-12-10 21:07:53
+95,10661,<b>Raw:</b> That's NDTV for u https://t.co/yS3Q6ZUNfk<br><b>Clean</b>: thats ndtv for u,non_standard_english,2022-12-10 21:07:57
+96,5512,<b>Raw:</b> You should cleared where Ukrain was standing for India since 1998 Automicm resulution 1176 In UNO https://t.co/zXF0IBcscr<br><b>Clean</b>: you should cleared where ukrain was standing for india since 1998 automicm resulution 1176 in uno,not-syntactic_standard_english,2022-12-10 21:08:07
+97,6211,<b>Raw:</b> @Kavitha04778245 Aap kaha se ho<br><b>Clean</b>: aap kaha se ho,not_english,2022-12-10 21:08:10
+98,15885,"<b>Raw:</b> Ham kuchh kah nahin rahe to Tum munh Ko a raha hun sare hamare pass bhi proof hai RAM OR SITA 😂😂
+RAM AGE 14 YEAR
+SITA AGE 6 YEAR  
+#jkpsiscam #justiceformahenoor #modijideferNEETUG2022  #AresstNupurSharma #QatarExposed @NupurSharmaBJP https://t.co/YFolNEK44p<br><b>Clean</b>: ham kuchh kah nahin rahe to tum munh ko a raha hun sare hamare pass bhi proof hai ram or sita ram age 14 year sita age 6 year",some_english,2022-12-10 21:08:15
+99,12573,"<b>Raw:</b> Favourite YouTuber - @thetanmay
+I just can't get over his vlogs.<br><b>Clean</b>: favourite youtuber i just cant get over his vlogs",full_standard_english,2022-12-10 21:08:23

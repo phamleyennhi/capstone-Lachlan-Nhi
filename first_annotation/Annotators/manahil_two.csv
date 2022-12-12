@@ -1,0 +1,167 @@
+,id_column,annotate_text,label,annotated_at
+0,1284,<b>Raw:</b> 🤭 @ Foy's Lake Concord https://t.co/0ETDvO9I1o<br><b>Clean</b>: foys lake concord,,2022-12-11 16:25:53
+1,1915,"<b>Raw:</b> সময় খারাপ হওয়ার কারোনে 
+প্রিয় হয়ে উঠা মানুষ গুলোর কাছে আজ অপ্রিয় 🙂 @ Portlink Logistics Center https://t.co/tAVSsaI11w<br><b>Clean</b>: portlink logistics center",some_english,2022-12-11 16:26:00
+2,4753,<b>Raw:</b> Wedding Of Imran @ Rupnagar Community Centre https://t.co/JZy2Dgc604<br><b>Clean</b>: wedding of imran rupnagar community centre,non_standard_english,2022-12-11 16:26:07
+3,5653,<b>Raw:</b> Alhamdulillah for everything❤️ https://t.co/tyBlHe36bP<br><b>Clean</b>: alhamdulillah for everything,code-switched,2022-12-11 16:26:17
+4,4141,"<b>Raw:</b> ‘ নৌকা আর পানি ,
+এ ছাড়া কি,দেশে আর কিছু আছে 🧐
+       রাষ্ট্রতো হাওয়ায় চলে🤐 @ Bandarban, Chittagong, Bangladesh https://t.co/AWTO3zlBG5<br><b>Clean</b>: bandarban chittagong bangladesh",some_english,2022-12-11 16:26:29
+5,6806,"<b>Raw:</b> [1/2] Another feast! Challer roti (rice bread) and nolla (cow's trotters), mishti bakorkhani (like a sweet paratha) and mezbani gosht (a traditional beef curry from Chattogram / Chittagong), naan and seekh kebab, reshmi kebab (like chicken tikka), ... https://t.co/GQzrc7PwwB<br><b>Clean</b>: 12 another feast challer roti rice bread and nolla cows trotters mishti bakorkhani like a sweet paratha and mezbani gosht a traditional beef curry from chattogram chittagong naan and seekh kebab reshmi kebab like chicken tikka",code-switched,2022-12-11 16:26:48
+6,1132,"<b>Raw:</b> Wedding of Sumon Vai♥
+With friend's of Bizid ♥
+
+Location: Azad_Community Center.
+
+#Personal_Blog #rubelahmad08 @ Azad Community Center,hamjarbagh,chittagong https://t.co/9aWisqXSob<br><b>Clean</b>: wedding of sumon vai with friends of bizid location azadcommunity center azad community centerhamjarbaghchittagong",not-syntactic_standard_english,2022-12-11 16:27:00
+7,3812,<b>Raw:</b> Election preparation at Akhter Hossain https://t.co/krVH6R55RN<br><b>Clean</b>: election preparation at akhter hossain,full_standard_english,2022-12-11 16:27:09
+8,154,<b>Raw:</b> Just posted a photo @ Rangunia Upazila https://t.co/012agQvsbP<br><b>Clean</b>: just posted a photo rangunia upazila,,2022-12-11 16:27:12
+9,3732,"<b>Raw:</b> 1 https://t.co/hLBfZKrZte kock🔥
+2 H. Amla🔥
+3 Faf du plessis🔥
+4 R.Rossow🔥
+5 https://t.co/56hvqbvmb9 Villiers🔥🔥
+6 D. Miller🔥
+7 JP Duminy🔥
+8 Veron Philander🔥
+9 Dale Steyn🔥
+10 Morne Morkel🔥
+11 Imran Tahir🔥
+
+Can you imagine them?<br><b>Clean</b>: 1 kock 2 h amla 3 faf du plessis 4 r rossow 5 villiers 6 d miller 7 jp duminy 8 veron philander 9 dale steyn 10 morne morkel 11 imran tahir can you imagine them",,2022-12-11 16:27:18
+10,2996,<b>Raw:</b> Dulhan mustard oil https://t.co/HAYAhIrj2o<br><b>Clean</b>: dulhan mustard oil,,2022-12-11 16:27:22
+11,547,<b>Raw:</b> #oldmemories 😍😍🙏🙏 @ Bandarban Hill Tracts বান্দরবান পার্বত্য জেলা https://t.co/sDozVbJ4J8<br><b>Clean</b>: bandarban hill tracts,code-switched,2022-12-11 16:27:34
+12,2543,"<b>Raw:</b> Just posted a photo @ Radisson Blu Bay View, Chottogram https://t.co/bSiGMpX9Tp<br><b>Clean</b>: just posted a photo radisson blu bay view chottogram",,2022-12-11 16:27:38
+13,221,"<b>Raw:</b> 14th amongst 300 Participants.
+#CCHM2022 @ Potenga Sea Beach, Chattogram https://t.co/b6kFkibzsK<br><b>Clean</b>: 14th amongst 300 participants potenga sea beach chattogram",non_standard_english,2022-12-11 16:27:53
+14,1252,<b>Raw:</b> Finance department of PBBL family @ Agrabad https://t.co/mdCERng4Cq<br><b>Clean</b>: finance department of pbbl family agrabad,non_standard_english,2022-12-11 16:28:02
+15,3896,<b>Raw:</b> Good Afternoon Brozz https://t.co/IrYJ5DKYGu<br><b>Clean</b>: good afternoon brozz,non_standard_english,2022-12-11 16:28:06
+16,7176,"<b>Raw:</b> Bon ❤️❤️
+Amon ak ta manus j sukha dukha sob somoy pasa thak jak sob kotha mon khula bola jai 💝💝 https://t.co/ZRLwJ3Rag2<br><b>Clean</b>: bon amon ak ta manus j sukha dukha sob somoy pasa thak jak sob kotha mon khula bola jai",not_english,2022-12-11 16:28:14
+17,5525,<b>Raw:</b> আলহামদুলিল্লাহ!!! @ Potenga Sea Beach - পতেঙ্গা সাগর পাড়। https://t.co/v7Luwko01v<br><b>Clean</b>: potenga sea beach,some_english,2022-12-11 16:28:20
+18,1900,<b>Raw:</b> Shakib Al Hasan 🏏🌻💛 https://t.co/3gCJmPZ4YT<br><b>Clean</b>: shakib al hasan,,2022-12-11 16:28:26
+19,5524,"<b>Raw:</b> #kacchi_dine 
+Thanks zia. @ কাচ্চি ডাইন- Agrabad https://t.co/UJmdyhDI8n<br><b>Clean</b>: thanks zia agrabad",,2022-12-11 16:28:32
+20,5747,"<b>Raw:</b> Just posted a photo @ Lakeview Island,kaptai,rangamati https://t.co/PTivVwNj3j<br><b>Clean</b>: just posted a photo lakeview islandkaptairangamati",,2022-12-11 16:28:35
+21,2267,"<b>Raw:</b> Grand Life Expo 2022 @ Radisson Blu Bay View, Chottogram https://t.co/nSnhQvwh2E<br><b>Clean</b>: grand life expo 2022 radisson blu bay view chottogram",,2022-12-11 16:28:39
+22,732,<b>Raw:</b> Mohammadpur premier League💝🏏 @ হাটহাজারী পৌরসভা https://t.co/Bp2gAYSleO<br><b>Clean</b>: mohammadpur premier league,,2022-12-11 16:28:43
+23,2203,"<b>Raw:</b> গরম গরম চলছে 
+বরাবরের মতই সেরা স্বাদে @ Sultan's Dine Chattogram https://t.co/9qOoEMA1wK<br><b>Clean</b>: sultans dine chattogram",some_english,2022-12-11 16:28:50
+24,3893,"<b>Raw:</b> Scholarship from SPS (@bewithsps) to Shrimati Durga Pal. Wish she will be successful in life. Mata Saraswasti bless her.🙏
+
+Jayatu SPS🚩🚩
+Jayatu Sanatan🙏 https://t.co/VzhTIIEtK8<br><b>Clean</b>: scholarship from sps to shrimati durga pal wish she will be successful in life mata saraswasti bless her jayatu sps jayatu sanatan",code-switched,2022-12-11 16:29:02
+25,503,<b>Raw:</b> Checkout Xiaomi Redmi S2 (Used) via @bikroy_com https://t.co/pWR3QNxK7E<br><b>Clean</b>: checkout xiaomi redmi s2 used via,,2022-12-11 16:29:07
+26,4561,<b>Raw:</b> Just posted a photo @ Rangunia Upazila https://t.co/5BjcHufS3a<br><b>Clean</b>: just posted a photo rangunia upazila,,2022-12-11 16:29:10
+27,3857,<b>Raw:</b> Just posted a photo @ Dampara Wasa https://t.co/KWAiWNWOXB<br><b>Clean</b>: just posted a photo dampara wasa,,2022-12-11 16:29:13
+28,7045,"<b>Raw:</b> Nice project 👍👍👍👍
+
+...... #Grizzlyfi $GHNY<br><b>Clean</b>: nice project ghny",non_standard_english,2022-12-11 16:29:19
+29,2909,<b>Raw:</b> রাতের চট্টগ্রাম @ Abc Mahbub Hills https://t.co/v7V7eb4oSD<br><b>Clean</b>: abc mahbub hills,,2022-12-11 16:29:29
+30,895,"<b>Raw:</b> #ভালবাসুন,কষ্ট করুন তার জন্যই যে একান্তই আপনার…..🖤 @ Patenga, Chittagong, Bangladesh https://t.co/otvXYNJCip<br><b>Clean</b>: patenga chittagong bangladesh",some_english,2022-12-11 16:29:36
+31,1554,"<b>Raw:</b> Conduciendo la XVI graduación de las internas del Centro de Corrección y Rehabilitación Rafey Mujeres en diversos cursos con la presencia de sus autoridades, la gobernadora de Santiago Rosa Santos, jueces de la pena y él director del distrito 08-04 de educación. https://t.co/igfGoelONf<br><b>Clean</b>: conduciendo la xvi graduación de las internas del centro de corrección y rehabilitación rafey mujeres en diversos cursos con la presencia de sus autoridades la gobernadora de santiago rosa santos jueces de la pena y él director del distrito 08 04 de educación",not_english,2022-12-11 16:29:44
+32,6969,"<b>Raw:</b> [5/n n+1/n] Oh, forgot the FIVE different deserts!  Jorda shemai, gulab jamun, fruit custard, caramel pudding and Momota Aunty's dudh lao https://t.co/QFKu3TJ8Te<br><b>Clean</b>: 5n n1n oh forgot the five different deserts jorda shemai gulab jamun fruit custard caramel pudding and momota auntys dudh lao",code-switched,2022-12-11 16:30:01
+33,3741,<b>Raw:</b> Assalamoalikum may all tweeter frd https://t.co/NTeDEkaj88<br><b>Clean</b>: assalamoalikum may all tweeter frd,code-switched,2022-12-11 16:30:17
+34,6415,"<b>Raw:</b> #Untitled...!!!
+Sagorika
+(Behind Zahur Ahmed Chowdhury Stadium)
+Chattogram,Bangladesh🇧🇩
+28 November,2017
+Device :  SE
+Click 📷 : Ali Sidney
+DOP : 01.08.2022 @ Sagorika Road. https://t.co/wcjnuzXTux<br><b>Clean</b>: sagorika behind zahur ahmed chowdhury stadium chattogrambangladesh 28 november2017 device se click ali sidney dop 01 08 2022 sagorika road",,2022-12-11 16:30:22
+35,78,"<b>Raw:</b> Just posted a photo @ Keokradong, Bandarban https://t.co/gKOu5wFgeX<br><b>Clean</b>: just posted a photo keokradong bandarban",,2022-12-11 16:30:25
+36,5520,"<b>Raw:</b> #2july2022 
+#rasel_chakma 
+#photography @ Bandarban, Chittagong, Bangladesh https://t.co/TJM5P72bNI<br><b>Clean</b>: bandarban chittagong bangladesh",,2022-12-11 16:30:36
+37,6877,"<b>Raw:</b> 🚝 @ Bandarban, Chittagong, Bangladesh https://t.co/GSaexQvw5N<br><b>Clean</b>: bandarban chittagong bangladesh",,2022-12-11 16:30:40
+38,5561,"<b>Raw:</b> 100 years old Kalurghat Bridge, Chattogram. https://t.co/1tuudiJoS9<br><b>Clean</b>: 100 years old kalurghat bridge chattogram",,2022-12-11 16:31:19
+39,608,"<b>Raw:</b> Bondhu.......
+Old pic..... @ Polwel Park &amp; Cottage, Rangamati https://t.co/mMW65Ddgzc<br><b>Clean</b>: bondhu old pic polwel park and cottage rangamati",,2022-12-11 16:31:23
+40,4332,<b>Raw:</b> All Credit goes to Mr. Sumon Chakma @ কাচ্চি ডাইন Ctg -A Taste Of Traditional Kacchi https://t.co/hDldZXIWel<br><b>Clean</b>: all credit goes to mr sumon chakma ctg a taste of traditional kacchi,code-switched,2022-12-11 16:31:42
+41,4610,"<b>Raw:</b> video ti dekle valo lagbe.......,..<br><b>Clean</b>: video ti dekle valo lagbe",some_english,2022-12-11 16:31:46
+42,2576,<b>Raw:</b> A night at CHHIMBAL 🖤 @ Sajek Valley https://t.co/OqgwBBsZOZ<br><b>Clean</b>: a night at chhimbal sajek valley,,2022-12-11 16:31:55
+43,7087,"<b>Raw:</b> Just posted a photo @ Agrabad, Chattogram. https://t.co/7qamEKTvor<br><b>Clean</b>: just posted a photo agrabad chattogram",,2022-12-11 16:31:58
+44,7297,<b>Raw:</b> PATENGA BEACH CHITTAGONG @ Patenga Beach পতেঙ্গা সমুদ্র সৈকত https://t.co/IFrdx4OYhs<br><b>Clean</b>: patenga beach chittagong patenga beach,code-switched,2022-12-11 16:32:06
+45,6350,"<b>Raw:</b> #live #Shironamhin 
+Photo: Sayeed Bin Mohiuddin @ Chittagong https://t.co/h0uUgL1xPC<br><b>Clean</b>: photo sayeed bin mohiuddin chittagong",,2022-12-11 16:32:10
+46,741,<b>Raw:</b> খোলা আকাশের নীচে আমরা সবাই যাযাবর @ Guliakhali Sea Beach- গুলিয়াখালী সমুদ্র সৈকত https://t.co/9yumzsHFS2<br><b>Clean</b>: guliakhali sea beach,some_english,2022-12-11 16:32:16
+47,2237,<b>Raw:</b> College ar pake🤞 https://t.co/xiRVCNhEmv<br><b>Clean</b>: college ar pake,some_english,2022-12-11 16:32:20
+48,4097,<b>Raw:</b> Chittagong Sha Amanat International Airport Chattogram. https://t.co/NP88DHdJs9<br><b>Clean</b>: chittagong sha amanat international airport chattogram,,2022-12-11 16:32:29
+49,4749,<b>Raw:</b> Wedding Of Imran @ Rupnagar Community Centre https://t.co/RBURijjcRC<br><b>Clean</b>: wedding of imran rupnagar community centre,non_standard_english,2022-12-11 16:32:33
+50,31,<b>Raw:</b> Best Of 2021 : Hatje Cantz : Manfred Baumann : Face to Face https://t.co/qaIhBtxhNK<br><b>Clean</b>: best of 2021 hatje cantz manfred baumann face to face,,2022-12-11 16:32:40
+51,6622,"<b>Raw:</b> গুলিয়াখালী সমুদ্র সৈকত, সীতাকুণ্ড 🇧🇩 @ Guliakhali Sea Beach- গুলিয়াখালী সমুদ্র সৈকত https://t.co/6HQIyvmjwA<br><b>Clean</b>: guliakhali sea beach",some_english,2022-12-11 16:32:45
+52,4044,<b>Raw:</b> The dawat restaurant https://t.co/MMydi8Faev<br><b>Clean</b>: the dawat restaurant,,2022-12-11 16:32:48
+53,1071,"<b>Raw:</b> “আমাদের সকলেরই স্বপ্ন আছে। কিন্তু স্বপ্নকে বাস্তবে রূপ দেওয়ার জন্য দৃঢ় সংকল্প, নিষ্ঠা, স্ব-শৃঙ্খলা এবং প্রচেষ্টা দরকার।” @ Foy's Lake Concord https://t.co/qClhiIADu9<br><b>Clean</b>: foys lake concord",some_english,2022-12-11 16:32:52
+54,3019,<b>Raw:</b> Alhamdulilla completed Iftar Party with University friends ❤👌 @ Finlay Square https://t.co/O1i2Pacckn<br><b>Clean</b>: alhamdulilla completed iftar party with university friends finlay square,code-switched,2022-12-11 16:32:59
+55,2832,<b>Raw:</b> Check out Tapos Das Rahol's video! #TikTok https://t.co/9R9FddG4iz<br><b>Clean</b>: check out tapos das rahols video,,2022-12-11 16:33:04
+56,2227,<b>Raw:</b> @mushfiqurfc @TamimOfficial28 Happy Bird day  tamim baiya i am from ctg<br><b>Clean</b>: happy bird day tamim baiya i am from ctg,code-switched,2022-12-11 16:33:32
+57,3153,"<b>Raw:</b> How cute our wwh jinu 💜🇧🇩😇
+#Bangladeshibtsarmy 
+#Bangladeshibtsarmy 
+#Bangladeshibtsarmy https://t.co/CcZqXviLGS<br><b>Clean</b>: how cute our wwh jinu",,2022-12-11 16:33:42
+58,3620,"<b>Raw:</b> Just posted a photo @ Patiya,monshar Tek https://t.co/bQ2H4Md13o<br><b>Clean</b>: just posted a photo patiyamonshar tek",,2022-12-11 16:33:45
+59,276,"<b>Raw:</b> লালুটিয়া ফরেস্ট দোহাজারী 
+
+#zakykhan21 #Dohazari @ Dohazari, Chittagong, Bangladesh https://t.co/OPe9Jfp0Hf<br><b>Clean</b>: dohazari chittagong bangladesh",some_english,2022-12-11 16:34:29
+60,5886,<b>Raw:</b> Indian hakuya saree https://t.co/0LToFwoZl3<br><b>Clean</b>: indian hakuya saree,,2022-12-11 16:34:37
+61,7204,"<b>Raw:</b> BRING BACK ARMAN. 
+
+#Dhaka #Bangladesh #AynaGhar #আয়নাঘর #EndEnforcedDisappearance https://t.co/Ll9v8SVWtl<br><b>Clean</b>: bring back arman",code-switched,2022-12-11 16:34:47
+62,6017,<b>Raw:</b> @SumiyaAkther___ Fack I'd niye samne asio na<br><b>Clean</b>: fack id niye samne asio na,not_english,2022-12-11 16:34:53
+63,5946,<b>Raw:</b> @AllahQuranIsla1 Hmm lager Kotha 😎<br><b>Clean</b>: hmm lager kotha,not_english,2022-12-11 16:34:58
+64,4750,<b>Raw:</b> Wedding Of Imran @ Rupnagar Community Centre https://t.co/2op3Ljs1Qr<br><b>Clean</b>: wedding of imran rupnagar community centre,non_standard_english,2022-12-11 16:35:02
+65,3016,<b>Raw:</b> Grand Eid Exhibition 2022 @ Radisson Blu Chattogram Bay View https://t.co/SiqghlLIHD<br><b>Clean</b>: grand eid exhibition 2022 radisson blu chattogram bay view,,2022-12-11 16:35:05
+66,6236,"<b>Raw:</b> Just posted a photo @ Azimpur, Patiya https://t.co/nCAo977uG7<br><b>Clean</b>: just posted a photo azimpur patiya",,2022-12-11 16:35:07
+67,2603,<b>Raw:</b> Just posted a photo @ Habib Tazkira's https://t.co/3kVUap3Ogu<br><b>Clean</b>: just posted a photo habib tazkiras,,2022-12-11 16:35:09
+68,2297,"<b>Raw:</b> Just posted a photo @ Meghla Parjaton Complex, Bandorban https://t.co/G2fshiQkzo<br><b>Clean</b>: just posted a photo meghla parjaton complex bandorban",,2022-12-11 16:35:14
+69,6670,<b>Raw:</b> Rest after #exercise @ কাপ্তাই-kaptai https://t.co/5Uki3q3RhF<br><b>Clean</b>: rest after kaptai,some_english,2022-12-11 16:35:21
+70,2205,"<b>Raw:</b> গরম গরম চলছে 
+বরাবরের মতই সেরা স্বাদে @ Sultan's Dine Chattogram https://t.co/savlr0VJZK<br><b>Clean</b>: sultans dine chattogram",some_english,2022-12-11 16:35:28
+71,893,"<b>Raw:</b> #TECNOMobileBD 
+#StopAtNothing @ Sanmer Ocean City https://t.co/3gxF9UMoTw<br><b>Clean</b>: sanmer ocean city",,2022-12-11 16:35:32
+72,3138,"<b>Raw:</b> A humane appeal.
+
+ Name: Alamgir
+ Profession: - Security Guard, IIUC Gate, Kumira, Sitakunda, Chittagong. https://t.co/ei4CFgUYcp<br><b>Clean</b>: a humane appeal name alamgir profession security guard iiuc gate kumira sitakunda chittagong",full_standard_english,2022-12-11 16:35:58
+73,4266,"<b>Raw:</b> ভালোবেসে ইতিতে নয়!
+স্মৃতিতে রেখো!
+তুমি আমার প্রথম প্রেম নয়!
+শেষ প্রেম  হয়ে থেকো...!
+M A NAHID...! https://t.co/9lMhOyxbwk<br><b>Clean</b>: m a nahid",not_english,2022-12-11 16:36:05
+74,2718,"<b>Raw:</b> Good NFT
+ #ShareThePie in https://t.co/2U9RY6UuGH<br><b>Clean</b>: good nft in",,2022-12-11 16:36:09
+75,67,"<b>Raw:</b> CTG meet up 05/07 @ Zaman's Restaurant, Agrabad https://t.co/8sZjcf9hnz<br><b>Clean</b>: ctg meet up 0507 zamans restaurant agrabad",non_standard_english,2022-12-11 16:36:18
+76,2710,<b>Raw:</b> ‼️‼️‼️‼️ @ Yunusco City Centre https://t.co/3ekPEG8mPQ<br><b>Clean</b>: yunusco city centre,,2022-12-11 16:36:22
+77,4301,<b>Raw:</b> KFC Mna what a test https://t.co/Ry7ybmMFb1<br><b>Clean</b>: kfc mna what a test,not_english,2022-12-11 16:36:27
+78,6450,"<b>Raw:</b> Just posted a photo @ 2 no gate Biplop Uddan, Chottogram https://t.co/b6HjGMc69f<br><b>Clean</b>: just posted a photo 2 no gate biplop uddan chottogram",,2022-12-11 16:36:32
+79,1687,<b>Raw:</b> Khanapina with friends https://t.co/Ow5MevQOKa<br><b>Clean</b>: khanapina with friends,code-switched,2022-12-11 16:36:43
+80,7566,"<b>Raw:</b> Sun set..... @ Potenga Sea Beach, Chattogram https://t.co/fqyivMTu56<br><b>Clean</b>: sun set potenga sea beach chattogram",non_standard_english,2022-12-11 16:37:00
+81,4293,"<b>Raw:</b> Zohur Ahmed Chowdhury Cricket Stadium, Chittagong. At 2019 @ Zohur Ahmed Chowdhury Stadium https://t.co/kT2R2ttxhm<br><b>Clean</b>: zohur ahmed chowdhury cricket stadium chittagong at 2019 zohur ahmed chowdhury stadium",,2022-12-11 16:37:08
+82,2100,"<b>Raw:</b> No caption needs..... 
+SPS(@bewithsps) in Khagrachari. 
+Lord Shiva bless all.😌
+
+Jayatu SPS💝
+Be With SPS🚩🚩 https://t.co/ncmEU0LYed<br><b>Clean</b>: no caption needs sps in khagrachari lord shiva bless all jayatu sps be with sps",code-switched,2022-12-11 16:37:20
+83,3246,<b>Raw:</b> May naay pinoy food sa menu diria hotel 👌<br><b>Clean</b>: may naay pinoy food sa menu diria hotel,some_english,2022-12-11 16:37:27
+84,1537,<b>Raw:</b> Dawat Time.... @ Chittagong https://t.co/YsIdKKBNbH<br><b>Clean</b>: dawat time chittagong,,2022-12-11 16:37:34
+85,3154,"<b>Raw:</b> Love you jungkookie 🇧🇩🇧🇩💜😇#Bangladeshibtsarmy
+#Bangladeshibtsarmy 
+#Bangladeshibtsarmy https://t.co/fniUzz9KLt<br><b>Clean</b>: love you jungkookie",not-syntactic_standard_english,2022-12-11 16:37:53
+86,5797,<b>Raw:</b> Abbu ❤️ Eid Mubarak 💚 @ Baitul Bari https://t.co/tcW7ibSBjO<br><b>Clean</b>: abbu eid mubarak baitul bari,,2022-12-11 16:38:18
+87,7563,<b>Raw:</b> #DelhiCrimeSeason2 Yaaayyy it’s finally here🥳❤️❤️ #ShefaliShah is loveeee 🥹👮🏻 @NetflixIndia #Netflix https://t.co/fIxMOEquSG<br><b>Clean</b>: yaaayyy its finally here is loveeee,non_standard_english,2022-12-11 16:38:29
+88,4938,<b>Raw:</b> Chittagong Board Clabe https://t.co/z5pFXgJ4Qp<br><b>Clean</b>: chittagong board clabe,,2022-12-11 16:38:33
+89,1987,<b>Raw:</b> বন্ধুরা ❤️ @ Yunusco City Centre https://t.co/Agj9SxlhgJ<br><b>Clean</b>: yunusco city centre,code-switched,2022-12-11 16:38:39
+90,6951,<b>Raw:</b> নির্দেশনা মেনে বিদ্যুৎ সাশ্রয় করা হচ্ছে 🙄 @ Chandgoan residential area https://t.co/xnKTd1w5sI<br><b>Clean</b>: chandgoan residential area,some_english,2022-12-11 16:38:47
+91,5472,"<b>Raw:</b> Rath Yatra 2022
+#rathyatra #rathyatra2022 
+#chattogram #hindhutradition @ Chittagong https://t.co/HW8imeA8XC<br><b>Clean</b>: rath yatra 2022 chittagong",,2022-12-11 16:38:52
+92,1280,<b>Raw:</b> হাসি মুখে নাকি আমায় ভালো দেখায় 😁😁😁 @ Railway Pologround Colony https://t.co/l61STmA5su<br><b>Clean</b>: railway pologround colony,some_english,2022-12-11 16:39:02
+93,1573,<b>Raw:</b> Grand Celebration of Glorious Eid-E- Meraz-un-Nabi Sallallahu Alaihi Wasallam at Chattogram Jamiatul Falah Masjid auditorium on Monday 28th February 2022 at 10am. @ Jamiatul Falah Mosque https://t.co/VKbumg8VkO<br><b>Clean</b>: grand celebration of glorious eid e meraz un nabi sallallahu alaihi wasallam at chattogram jamiatul falah masjid auditorium on monday 28th february 2022 at 10am jamiatul falah mosque,code-switched,2022-12-11 16:39:11
+94,7106,<b>Raw:</b> আমাদের বেহেশত। @ Chandgoan residential area https://t.co/Ef4V0azutj<br><b>Clean</b>: chandgoan residential area,some_english,2022-12-11 16:39:17
+95,4258,<b>Raw:</b> Letter from America 👣 @ Kazir Dewri https://t.co/8xVjEBSuSS<br><b>Clean</b>: letter from america kazir dewri,full_standard_english,2022-12-11 16:39:26
+96,6716,<b>Raw:</b> @SumiyaAkther___ md lh parvej<br><b>Clean</b>: md lh parvej,not_english,2022-12-11 16:39:29
+97,216,<b>Raw:</b> Just posted a photo @ Radisson Blu Chattogram Bay View https://t.co/HPhTWm2hB4<br><b>Clean</b>: just posted a photo radisson blu chattogram bay view,,2022-12-11 16:39:32
+98,3258,"<b>Raw:</b> #উৎসবেরআলো @ Bali Arcade, Chawkbazar https://t.co/AYkSRPsUBs<br><b>Clean</b>: bali arcade chawkbazar",,2022-12-11 16:39:35
+99,452,<b>Raw:</b> @GqWXwDlVmzvdIiq Where You're  campus?<br><b>Clean</b>: where youre campus,not-syntactic_standard_english,2022-12-11 16:39:48
